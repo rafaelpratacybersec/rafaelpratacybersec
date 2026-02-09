@@ -61,7 +61,7 @@ Auditoria de alto impacto envolvendo **dados sensíveis**,
 ---
 
 ## 🤝 Contato
-- 💼 LinkedIn: seu-link
+- 💼 LinkedIn: https://www.linkedin.com/in/rafael-prata-de-oliveira-570555303/
 - 📧 Email profissional
 
 > ⚠️ Todos os projetos foram conduzidos de forma ética  
