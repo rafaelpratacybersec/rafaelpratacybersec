@@ -47,4 +47,22 @@ Auditoria de segurança focada em **enumeração de usuários**,
 Auditoria de alto impacto envolvendo **dados sensíveis**,  
 **infraestrutura vulnerável** e **risco jurídico (LGPD)**.
 
-➡️ [Repositório]
+➡️ [Repositório](https://github.com/seuusuario/security-audit-lgpd-critical-findings)
+
+---
+
+## 📚 Em Estudo Atualmente
+- SOC Level 1
+- API Security
+- Segurança em aplicações web
+- Threat Modeling
+- Hardening de servidores
+
+---
+
+## 🤝 Contato
+- 💼 LinkedIn: seu-link
+- 📧 Email profissional
+
+> ⚠️ Todos os projetos foram conduzidos de forma ética  
+> e tiveram informações sensíveis anonimizadas.
