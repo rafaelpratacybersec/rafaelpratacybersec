@@ -31,7 +31,7 @@
 Estudo de falhas em APIs modernas envolvendo **Mass Assignment** e  
 **abuso de lógica de negócio**.
 
-➡️ [Repositório](https://github.com/seuusuario/api-business-logic-vulnerability-study)
+➡️ [Repositório](https://github.com/rafaelpratacybersec/api-business-logic-vulnerability-study)
 
 ---
 
