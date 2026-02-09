@@ -47,7 +47,7 @@ Auditoria de segurança focada em **enumeração de usuários**,
 Auditoria de alto impacto envolvendo **dados sensíveis**,  
 **infraestrutura vulnerável** e **risco jurídico (LGPD)**.
 
-➡️ [Repositório](https://github.com/seuusuario/security-audit-lgpd-critical-findings)
+➡️ [Repositório](https://github.com/rafaelpratacybersec/security-audit-lgpd-critical-findings)
 
 ---
 
