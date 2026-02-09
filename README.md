@@ -39,7 +39,7 @@ Estudo de falhas em APIs modernas envolvendo **Mass Assignment** e
 Auditoria de segurança focada em **enumeração de usuários**,  
 **XML-RPC** e **hardening**.
 
-➡️ [Repositório](https://github.com/seuusuario/web-pentest-wordpress-security-audit)
+➡️ [Repositório](https://github.com/rafaelpratacybersec/web-pentest-wordpress-security-audit/tree/main)
 
 ---
 
