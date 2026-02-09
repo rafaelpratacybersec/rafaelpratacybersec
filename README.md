@@ -62,7 +62,7 @@ Auditoria de alto impacto envolvendo **dados sensíveis**,
 
 ## 🤝 Contato
 - 💼 LinkedIn: https://www.linkedin.com/in/rafael-prata-de-oliveira-570555303/
-- 📧 Email profissional
+- 📧 Email profissional: rafaelprata.cybersec@gmail.com
 
 > ⚠️ Todos os projetos foram conduzidos de forma ética  
 > e tiveram informações sensíveis anonimizadas.
