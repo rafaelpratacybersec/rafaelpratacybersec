@@ -1,53 +1,71 @@
-<h1>Hi, I'm Rafael!
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+# 👋 Olá, eu sou o Rafael
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+🎯 Estudante de Cibersegurança focado em **Blue Team / SOC / Segurança Defensiva**, 
+com interesse em análise de logs, automação, resposta a incidentes e hardening de sistemas.
 
-<h2>📺 Popular YouTube Videos</h2>
+📍 Brasil | 💻 GitHub como portfólio prático
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 🧠 Áreas de Estudo
+- Fundamentos de Cibersegurança
+- Redes e Protocolos (TCP/IP, DNS, HTTP)
+- Segurança em Sistemas Windows e Linux
+- Análise de Logs e Incidentes
+- Automação com Python e PowerShell
+- Conceitos de SIEM e SOC
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, PowerShell, Bash
+- **Sistemas:** Windows, Linux
+- **Segurança:** Wireshark, Nmap, Sysmon, Event Viewer
+- **Conceitos:** MITRE ATT&CK, CIA Triad, Least Privilege
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 Projetos de Cibersegurança
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Monitoramento e Análise de Logs
+- 📌 **Windows Event Log Analyzer**
+  - Coleta e análise de eventos de segurança
+  - Detecção de tentativas de login suspeitas
+  - [Repositório](link)
+
+### 🔹 Automação e Hardening
+- 📌 **Script de Hardening Windows**
+  - Desativação de serviços inseguros
+  - Políticas básicas de segurança
+  - [Repositório](link)
+
+### 🔹 Segurança Ofensiva (Estudo Controlado)
+> Projetos abaixo desenvolvidos **apenas para fins educacionais**
+- 📌 **Keylogger – Proof of Concept**
+  - Objetivo: entender técnicas de ataque para melhorar defesa
+  - Mitigações documentadas
+  - [Repositório](link)
+
+---
+
+## 📚 Estudos e Labs
+- Resumos práticos sobre:
+  - Active Directory
+  - RDP Attacks
+  - Phishing
+  - Malware Básico
+- [Pasta de Estudos](link)
+
+---
+
+## 📈 Em Aprendizado Atualmente
+- SOC Level 1
+- SIEM (conceitos e prática)
+- Threat Detection
+- Python aplicado à segurança
+
+---
+
+## 🤝 Conecte-se comigo
+- 💼 LinkedIn: seu link
+- 📧 Email profissional
