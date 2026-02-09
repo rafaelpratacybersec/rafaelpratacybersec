@@ -1,71 +1,50 @@
-# 👋 Olá, eu sou o Rafael
+# 👋 Olá, eu sou o Rafael Prata
 
-🎯 Estudante de Cibersegurança focado em **Blue Team / SOC / Segurança Defensiva**, 
-com interesse em análise de logs, automação, resposta a incidentes e hardening de sistemas.
+🎯 Profissional em formação na área de **Cibersegurança**, com foco em  
+**Pentest Web, API Security, análise de vulnerabilidades e conformidade LGPD**.
 
-📍 Brasil | 💻 GitHub como portfólio prático
+📍 Brasil | 💻 GitHub como portfólio técnico
 
 ---
 
-## 🧠 Áreas de Estudo
-- Fundamentos de Cibersegurança
-- Redes e Protocolos (TCP/IP, DNS, HTTP)
-- Segurança em Sistemas Windows e Linux
-- Análise de Logs e Incidentes
-- Automação com Python e PowerShell
-- Conceitos de SIEM e SOC
+## 🧠 Áreas de Atuação
+- Pentest Web e API
+- OWASP Top 10
+- Análise de Vulnerabilidades
+- Segurança Defensiva e Ofensiva (ética)
+- LGPD e risco jurídico
+- Escrita técnica e relatórios de segurança
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python, PowerShell, Bash
-- **Sistemas:** Windows, Linux
-- **Segurança:** Wireshark, Nmap, Sysmon, Event Viewer
-- **Conceitos:** MITRE ATT&CK, CIA Triad, Least Privilege
+- **Linguagens:** Python, Bash
+- **Ferramentas:** Burp Suite, Nmap, DevTools, Linux
+- **Web:** HTTP, REST APIs, WordPress
+- **Conceitos:** OWASP, MITRE ATT&CK, CIA Triad, Least Privilege
 
 ---
 
-## 👨‍💻 Projetos de Cibersegurança
+## 👨‍💻 Projetos em Destaque
 
-### 🔹 Monitoramento e Análise de Logs
-- 📌 **Windows Event Log Analyzer**
-  - Coleta e análise de eventos de segurança
-  - Detecção de tentativas de login suspeitas
-  - [Repositório](link)
+### 🔴 API & Business Logic Vulnerability
+Estudo de falhas em APIs modernas envolvendo **Mass Assignment** e  
+**abuso de lógica de negócio**.
 
-### 🔹 Automação e Hardening
-- 📌 **Script de Hardening Windows**
-  - Desativação de serviços inseguros
-  - Políticas básicas de segurança
-  - [Repositório](link)
-
-### 🔹 Segurança Ofensiva (Estudo Controlado)
-> Projetos abaixo desenvolvidos **apenas para fins educacionais**
-- 📌 **Keylogger – Proof of Concept**
-  - Objetivo: entender técnicas de ataque para melhorar defesa
-  - Mitigações documentadas
-  - [Repositório](link)
+➡️ [Repositório](https://github.com/seuusuario/api-business-logic-vulnerability-study)
 
 ---
 
-## 📚 Estudos e Labs
-- Resumos práticos sobre:
-  - Active Directory
-  - RDP Attacks
-  - Phishing
-  - Malware Básico
-- [Pasta de Estudos](link)
+### 🟠 Pentest Web – WordPress
+Auditoria de segurança focada em **enumeração de usuários**,  
+**XML-RPC** e **hardening**.
+
+➡️ [Repositório](https://github.com/seuusuario/web-pentest-wordpress-security-audit)
 
 ---
 
-## 📈 Em Aprendizado Atualmente
-- SOC Level 1
-- SIEM (conceitos e prática)
-- Threat Detection
-- Python aplicado à segurança
+### 🔥 Auditoria Crítica & LGPD
+Auditoria de alto impacto envolvendo **dados sensíveis**,  
+**infraestrutura vulnerável** e **risco jurídico (LGPD)**.
 
----
-
-## 🤝 Conecte-se comigo
-- 💼 LinkedIn: seu link
-- 📧 Email profissional
+➡️ [Repositório]
